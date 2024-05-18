@@ -1,6 +1,5 @@
 package com.course.udemycourse.controllers;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
@@ -13,7 +12,6 @@ import com.course.udemycourse.models.User;
 import com.course.udemycourse.models.dto.UserDto;
 
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
 
 
 @RestController
